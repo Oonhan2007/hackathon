@@ -1,0 +1,100 @@
+[
+  {
+    "date": "Monday, October 19, 2020",
+    "venue": "D1-13, D1-14, D2-03, D2-04",
+    "code": "CH1531",
+    "time": "0800 - 0915 (P1), 0945 - 1045 (P2)",
+    "title": "Higher Chinese I"
+  },
+  {
+    "date": "Monday, October 19, 2020",
+    "venue": "D1-05",
+    "code": "CL1531",
+    "time": "0800 - 0915 (P1), 0945 - 1045 (P2)",
+    "title": "Chinese I"
+  },
+  {
+    "date": "Monday, October 19, 2020",
+    "venue": "E1-13/14",
+    "code": "TH1531",
+    "time": "0800 - 0915 (P1), 0945 - 1045 (P2)",
+    "title": "Higher Tamil I"
+  },
+  {
+    "date": "Monday, October 19, 2020",
+    "venue": "D4-16, D4-17",
+    "code": "TL1531",
+    "time": "0800 - 0915 (P1), 0945 - 1045 (P2)",
+    "title": "Tamil I"
+  },
+  {
+    "date": "Monday, October 19, 2020",
+    "venue": "D1-04, D1-05, D1-13, D1-14, D2-03, D2-04",
+    "code": "EL1131",
+    "time": "1430 - 1600",
+    "title": "Language and Literary Studies I"
+  },
+  {
+    "date": "Wednesday, October 21, 2020",
+    "venue": "D1-04, D1-05, D1-13, D1-14, D2-03, D2-04",
+    "code": "PC1131",
+    "time": "0800 - 1000",
+    "title": "Foundations in Physics I"
+  },
+  {
+    "date": "Thursday, October 22, 2020",
+    "venue": "D1-04, D1-05, D1-13, D1-14, D2-03, D2-04",
+    "code": "CM1131",
+    "time": "0800 - 1000",
+    "title": "Foundations in Chemistry I"
+  },
+  {
+    "date": "Monday, October 26, 2020",
+    "venue": "D1-04, D1-05, D1-13, D1-14, D2-03, D2-04",
+    "code": "BL1131",
+    "time": "1400 - 1530",
+    "title": "Foundations in Biology I"
+  },
+  {
+    "date": "Wednesday, October 28, 2020",
+    "venue": "D1-04, D1-05, D1-13, D1-14, D2-03, D2-04",
+    "code": "CS1131",
+    "time": "0800 - 0915",
+    "title": "Computational Thinking"
+  },
+  {
+    "date": "Thursday, October 29, 2020",
+    "venue": "D1-04/05",
+    "code": "FR1232",
+    "time": "0800 - 0930",
+    "title": "French as 3rd Language IB"
+  },
+  {
+    "date": "Thursday, October 29, 2020",
+    "venue": "D1-13, D1-14",
+    "code": "JP1232",
+    "time": "0800 - 0930",
+    "title": "Japanese as 3rd Language IB"
+  },
+  {
+    "date": "Thursday, October 29, 2020",
+    "venue": "D2-04",
+    "code": "CL1232",
+    "time": "0800 - 0900",
+    "title": "Chinese as 3rd Language IB"
+  },
+  {
+    "date": "Thursday, October 29, 2020",
+    "venue": "D2-04",
+    "code": "ML1232",
+    "time": "0800 - 0900",
+    "title": "Malay as 3rd Language IB"
+  },
+  {
+    "date": "Friday, October 23, 2020",
+    "venue": "D4-05, D4-06, D4-07, D4-08, D4-16, D4-17, B4-12",
+    "code": "MA2132",
+    "time": "1430 - 1630",
+    "title": "Foundations in Mathematics IIB"
+  }
+]
